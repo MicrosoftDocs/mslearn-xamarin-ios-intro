@@ -1,7 +1,6 @@
 # Microsoft Learn: Introduction to Xamarin.iOS
 
-[//]: # (TODO: Link back to Microsoft Learn module.)
-This project contains the source code for the **Introduction to Xamarin.iOS** Microsoft Learn module.
+This project contains the source code for the [**Introduction to Xamarin.iOS**](https://docs.microsoft.com/learn/modules/introduction-to-xamarin-ios/) Microsoft Learn module.
 
 # Contributing
 
